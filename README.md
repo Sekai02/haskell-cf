@@ -11,3 +11,4 @@
 - [Array Craft](https://codeforces.com/contest/1990/problem/B) ([submission](https://codeforces.com/contest/1990/submission/298725853))
 - [Find K Distinct Points with Fixed Center](https://codeforces.com/contest/1998/problem/A) ([submission](https://codeforces.com/contest/1998/submission/298729642))
 - [Minimize Equal Sum Subarrays](https://codeforces.com/contest/1998/problem/B) ([submission](https://codeforces.com/contest/1998/submission/298731014))
+- [Good Matrix Elements](https://codeforces.com/contest/177/problem/A2) ([submission](https://codeforces.com/contest/177/submission/304469483))
