@@ -1,9 +1,9 @@
 # haskell-cf
 **Some solved problems from Codeforces for a University Course on Declarative Programming.**
 
-<img title="haskell-logo" alt="haskell-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Logo_of_the_Haskell_programming_language.svg/2560px-Logo_of_the_Haskell_programming_language.svg.png">
+<img title="haskell-logo" alt="haskell-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Logo_of_the_Haskell_programming_language.svg/2560px-Logo_of_the_Haskell_programming_language.svg.png" width="200">
 
-## List of Solved Problems:
+## List of Solved Problems
 - [Chaya Calendar](https://codeforces.com/contest/1932/problem/B) ([submission](https://codeforces.com/contest/1932/submission/298593331))
 - [Lunatic Never Content](https://codeforces.com/contest/1826/problem/B) ([submission](https://codeforces.com/contest/1826/submission/298596054))
 - [ICPC Square](https://codeforces.com/contest/2045/problem/B) ([submission](https://codeforces.com/contest/2045/submission/298619508))
@@ -34,15 +34,3 @@ barChart
     bar "Good Matrix" 800
     bar "T-primes" 1300
     bar "Books" 1400
-
-## Problem Tag Distribution
-
-```mermaid
-pie
-    title Problem Tags Frequency
-    "Number Theory" : 3
-    "Greedy" : 2
-    "Implementation" : 4
-    "Math" : 5
-    "Binary Search" : 1
-    "Data Structures" : 2
